@@ -9,7 +9,7 @@ body {
 
 /*Estilo para la imagen arriba*/
 #logo {
-background: url(../img/logo.png) no-repeat right;
+background: url(logo.png) no-repeat right;
 margin: 0 0px;
 background-size: 60%;
 padding: 25em 0em 5em 0em;
